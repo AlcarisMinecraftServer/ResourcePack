@@ -1,0 +1,79 @@
+{
+    "providers": [
+        {
+            "type": "space",
+            "advances": {
+                " ": 4,
+                "\uF800": 0,
+                "\uF801": -1,
+                "\uF802": -2,
+                "\uF803": -3,
+                "\uF804": -4,
+                "\uF805": -5,
+                "\uF806": -6,
+                "\uF807": -7,
+                "\uF808": -8,
+                "\uF809": -16,
+                "\uF80A": -32,
+                "\uF80B": -64,
+                "\uF80C": -128,
+                "\uF80D": -256,
+                "\uF80E": -512,
+                "\uF80F": -32768,
+                "\uF820": 0,
+                "\uF821": 1,
+                "\uF822": 2,
+                "\uF823": 3,
+                "\uF824": 4,
+                "\uF825": 5,
+                "\uF826": 6,
+                "\uF827": 7,
+                "\uF828": 8,
+                "\uF829": 16,
+                "\uF82A": 32,
+                "\uF82B": 64,
+                "\uF82C": 128,
+                "\uF82D": 256,
+                "\uF82E": 512,
+                "\uF82F": 32768
+            }
+        },
+        {
+            "type": "bitmap",
+            "file": "common:font/icons.png",
+            "ascent": 8,
+            "height": 10,
+            "chars": [
+                "\uE100\uE101\uE102\uE103\uE104\uE105\uE106\uE107",
+                "\uE108\uE109\uE10A\uE10B\uE10C\uE10D\uE10E\uE10F",
+                "\uE110\uE111\uE112\uE113\uE114\uE115\uE116\uE117",
+                "\uE118\uE119\uE11A\uE11B\uE11C\uE11D\uE11E\uE11F"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "common:font/icons.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": [
+                "\uE120\uE121\uE122\uE123\uE124\uE125\uE126\uE127",
+                "\uE128\uE129\uE12A\uE12B\uE12C\uE12D\uE12E\uE12F",
+                "\uE130\uE131\uE132\uE133\uE134\uE135\uE136\uE137",
+                "\uE138\uE139\uE13A\uE13B\uE13C\uE13D\uE13E\uE13F"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "common:font/rarity.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [
+                "\uE150",
+                "\uE151",
+                "\uE152",
+                "\uE153",
+                "\uE154"
+            ]
+        }
+    ]
+}
