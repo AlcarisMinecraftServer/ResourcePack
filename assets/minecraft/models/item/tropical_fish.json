@@ -45,6 +45,13 @@
             },
             "model": "core:item/foods/10014",
             "#": "ドーナツ（はちみつ）"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 10015
+            },
+            "model": "core:item/foods/10015",
+            "#": "ドーナツ（メロン）"
         }
     ]
 }
