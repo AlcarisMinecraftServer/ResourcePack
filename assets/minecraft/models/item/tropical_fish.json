@@ -10,6 +10,13 @@
             },
             "model": "core:item/foods/10001",
             "#": "野菜スープ"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 10008
+            },
+            "model": "core:item/foods/10008",
+            "#": "ドーナツ（りんご）"
         }
     ]
 }
