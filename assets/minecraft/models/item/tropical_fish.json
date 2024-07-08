@@ -59,6 +59,13 @@
             },
             "model": "core:item/foods/10016",
             "#": "ドーナツ"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 10017
+            },
+            "model": "core:item/foods/10017",
+            "#": "ドーナツ（かぼちゃ）"
         }
     ]
 }
