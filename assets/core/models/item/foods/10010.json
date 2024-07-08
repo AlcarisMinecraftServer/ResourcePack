@@ -1,6 +1,6 @@
 {
     "parent": "item/generated",
     "textures": {
-        "layer0": "core:item/foods/10008"
+        "layer0": "core:item/foods/10010"
     }
 }
