@@ -38,6 +38,13 @@
             },
             "model": "core:item/foods/10013",
             "#": "ドーナツ（チョコレート）"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 10014
+            },
+            "model": "core:item/foods/10014",
+            "#": "ドーナツ（はちみつ）"
         }
     ]
 }
