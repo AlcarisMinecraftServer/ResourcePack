@@ -17,6 +17,13 @@
             },
             "model": "core:item/foods/10008",
             "#": "ドーナツ（りんご）"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 10009
+            },
+            "model": "core:item/foods/10009",
+            "#": "ドーナツ（キャラメル）"
         }
     ]
 }
