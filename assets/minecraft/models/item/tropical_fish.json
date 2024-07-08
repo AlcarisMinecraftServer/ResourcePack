@@ -13,16 +13,16 @@
         },
         {
             "predicate": {
-                "custom_model_data": 10008
+                "custom_model_data": 10010
             },
-            "model": "core:item/foods/10008",
+            "model": "core:item/foods/10010",
             "#": "ドーナツ（りんご）"
         },
         {
             "predicate": {
-                "custom_model_data": 10009
+                "custom_model_data": 10011
             },
-            "model": "core:item/foods/10009",
+            "model": "core:item/foods/10011",
             "#": "ドーナツ（キャラメル）"
         }
     ]
