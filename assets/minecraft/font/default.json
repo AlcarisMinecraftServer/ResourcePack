@@ -74,6 +74,15 @@
                 "\uE153",
                 "\uE154"
             ]
+        },
+        {
+            "type": "bitmap",
+            "file": "common:ui/icons/servers/lobby.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [
+                "\uEA00"
+            ]
         }
     ]
 }
