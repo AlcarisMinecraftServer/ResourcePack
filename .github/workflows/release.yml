@@ -40,6 +40,8 @@ jobs:
     - name: Create Release
       uses: softprops/action-gh-release@v1
       with:
+        name: ${{ env.VERSION }}
+        tag_name: ${{ env.VERSION }}
         files: Fantaisie-ResourcePack-${{ env.VERSION }}.zip
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
