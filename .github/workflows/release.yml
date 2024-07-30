@@ -38,6 +38,7 @@ jobs:
       - name: Remove unnecessary files
         run: |
           rm -rf .github
+          rm -rf renovate.json
 
       - name: Create ZIP file
         run: |
