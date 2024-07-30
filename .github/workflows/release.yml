@@ -1,0 +1,46 @@
+name: Build and Release
+
+on:
+  push:
+    branches: [main]
+
+jobs:
+  release:
+    name: Release
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3
+
+    - name: Get version from pack.mcmeta
+      id: get_version
+      run: |
+        VERSION=$(grep -o -m 1 -E "(v[0-9]+\.){1}[0-9]+(\.[0-9]+)?" pack.mcmeta)
+        echo "VERSION=$VERSION" >> $GITHUB_ENV
+        echo "VERSION=${{ env.VERSION }}"
+
+    - name: Check if version already exists
+      id: check_version
+      run: |
+        EXISTING_TAG=$(git tag -l "${{ env.VERSION }}")
+        if [ -n "$EXISTING_TAG" ]; then
+          echo "Version $EXISTING_TAG already exists. Exiting..."
+          exit 1
+        fi
+
+    - name: Remove unnecessary files
+      run: |
+        rm -rf .github
+
+    - name: Create ZIP file
+      run: |
+        zip -r Fantaisie-ResourcePack-${{ env.VERSION }}.zip .
+
+    - name: Create Release
+      uses: softprops/action-gh-release@v1
+      with:
+        files: Fantaisie-ResourcePack-${{ env.VERSION }}.zip
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        RELEASE_NAME: ${{ env.VERSION }}
