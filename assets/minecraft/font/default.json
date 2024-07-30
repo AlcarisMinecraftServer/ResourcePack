@@ -101,6 +101,33 @@
             "chars": [
                 "\uEB01"
             ]
+        },
+        {
+            "type": "bitmap",
+            "file": "common:ui/icons/roles/staff.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [
+                "\uEB02"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "common:ui/icons/roles/builder.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [
+                "\uEB03"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "common:ui/icons/roles/helper.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [
+                "\uEB04"
+            ]
         }
     ]
 }
