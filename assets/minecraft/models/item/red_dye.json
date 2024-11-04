@@ -1,0 +1,22 @@
+{
+    "parent": "minecraft:item/generated",
+    "textures": {
+        "layer0": "minecraft:item/red_dye"
+    },
+    "overrides": [
+        {
+            "predicate": {
+                "custom_model_data": 10000
+            },
+            "model": "common:item/icon/shop/button_arrow_left",
+            "#": "ボタン_矢印_左"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 10001
+            },
+            "model": "common:item/icon/shop/button_arrow_right",
+            "#": "ボタン_矢印_右"
+        }
+    ]
+}
