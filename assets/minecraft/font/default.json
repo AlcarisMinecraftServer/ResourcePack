@@ -77,6 +77,15 @@
         },
         {
             "type": "bitmap",
+            "file": "common:ui/menu/crafting.png",
+            "ascent": 10,
+            "height": 80,
+            "chars": [
+                "\uE250"
+            ]
+        },
+        {
+            "type": "bitmap",
             "file": "common:ui/icons/servers/lobby.png",
             "ascent": 7,
             "height": 7,
@@ -91,6 +100,15 @@
             "height": 7,
             "chars": [
                 "\uEA01"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "common:ui/icons/servers/minigame.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [
+                "\uEA02"
             ]
         },
         {
