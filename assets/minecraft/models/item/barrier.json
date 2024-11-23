@@ -1,0 +1,64 @@
+{
+    "parent": "minecraft:item/generated",
+    "textures": {
+        "layer0": "minecraft:item/barrier"
+    },
+    "overrides": [
+        {
+            "predicate": {
+                "custom_model_data": 10000
+            },
+            "model": "common:item/icon/shop/button_arrow_left",
+            "#": "ボタン_矢印_左"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 10001
+            },
+            "model": "common:item/icon/shop/button_arrow_right",
+            "#": "ボタン_矢印_右"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 11000
+            },
+            "model": "common:item/icon/item/11000",
+            "#": "アイコン_アイテム_タイプ_短剣"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 11001
+            },
+            "model": "common:item/icon/item/11001",
+            "#": "アイコン_アイテム_タイプ_刀剣"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 11002
+            },
+            "model": "common:item/icon/item/11002",
+            "#": "アイコン_アイテム_タイプ_槍"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 11003
+            },
+            "model": "common:item/icon/item/11003",
+            "#": "アイコン_アイテム_タイプ_ハンマー"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 11004
+            },
+            "model": "common:item/icon/item/11004",
+            "#": "アイコン_アイテム_タイプ_杖"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 11005
+            },
+            "model": "common:item/icon/item/11005",
+            "#": "アイコン_アイテム_タイプ_弓"
+        }
+    ]
+}
