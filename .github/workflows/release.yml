@@ -42,12 +42,12 @@ jobs:
 
       - name: Create ZIP file
         run: |
-          zip -r Fantaisie-ResourcePack.zip *
+          zip -r Alcaris-ResourcePack.zip *
 
       - uses: actions/upload-artifact@v4
         with:
           name: zip_file
-          path: Fantaisie-ResourcePack.zip
+          path: Alcaris-ResourcePack.zip
 
   release:
     name: Release
@@ -70,6 +70,6 @@ jobs:
       - name: Create Release
         uses: ncipollo/release-action@v1
         with:
-          artifacts: Fantaisie-ResourcePack.zip
+          artifacts: Alcaris-ResourcePack.zip
           token: ${{ secrets.GITHUB_TOKEN }}
           tag: ${{ needs.build.outputs.version }}
