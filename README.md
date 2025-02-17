@@ -1,7 +1,7 @@
-# <div align="center">Fantaisie Resource Pack for Java Edition</div>
+# <div align="center">Alcaris Resource Pack for Java Edition</div>
 
 本サーバーで提供している独自リソースパックです。<br />
-最新バージョンダウンロードは、[Release](https://github.com/FantaisieMinecraftServer/ResourcePack-Java/releases)を参照してください。
+最新バージョンダウンロードは、[Release](https://github.com/AlcarisMinecraftServer/ResourcePack/releases)を参照してください。
 
 ## ライセンス
 

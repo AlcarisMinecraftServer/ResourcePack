@@ -95,15 +95,6 @@
         },
         {
             "type": "bitmap",
-            "file": "common:ui/icons/servers/skyblock.png",
-            "ascent": 7,
-            "height": 7,
-            "chars": [
-                "\uEA01"
-            ]
-        },
-        {
-            "type": "bitmap",
             "file": "common:ui/icons/servers/minigame.png",
             "ascent": 7,
             "height": 7,
