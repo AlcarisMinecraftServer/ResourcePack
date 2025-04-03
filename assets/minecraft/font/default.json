@@ -86,6 +86,33 @@
         },
         {
             "type": "bitmap",
+            "file": "common:ui/menu/cooking.png",
+            "ascent": 10,
+            "height": 80,
+            "chars": [
+                "\uE251"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "common:ui/menu/no_background.png",
+            "ascent": 10,
+            "height": 80,
+            "chars": [
+                "\uE256"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "common:ui/menu/no_background_large.png",
+            "ascent": 10,
+            "height": 160,
+            "chars": [
+                "\uE257"
+            ]
+        },
+        {
+            "type": "bitmap",
             "file": "common:ui/icons/servers/lobby.png",
             "ascent": 7,
             "height": 7,
