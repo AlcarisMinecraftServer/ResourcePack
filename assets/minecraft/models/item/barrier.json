@@ -8,13 +8,13 @@
             "predicate": {
                 "custom_model_data": 10000
             },
-            "model": "common:item/icon/shop/button_arrow_left"
+            "model": "common:item/icon/gui/button_arrow_left"
         },
         {
             "predicate": {
                 "custom_model_data": 10001
             },
-            "model": "common:item/icon/shop/button_arrow_right"
+            "model": "common:item/icon/gui/button_arrow_right"
         }
     ]
 }
