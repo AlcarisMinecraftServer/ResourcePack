@@ -122,11 +122,29 @@
         },
         {
             "type": "bitmap",
-            "file": "common:ui/icons/servers/minigame.png",
+            "file": "common:ui/icons/servers/resource.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [
+                "\uEA01"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "common:ui/icons/servers/pve.png",
             "ascent": 7,
             "height": 7,
             "chars": [
                 "\uEA02"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "common:ui/icons/servers/minigame.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [
+                "\uEA03"
             ]
         },
         {
