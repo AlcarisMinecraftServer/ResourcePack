@@ -113,6 +113,15 @@
         },
         {
             "type": "bitmap",
+            "file": "common:ui/menu/generic_panel_36.png",
+            "ascent": 31,
+            "height": 256,
+            "chars": [
+                "\uE260"
+            ]
+        },
+        {
+            "type": "bitmap",
             "file": "common:ui/icons/servers/lobby.png",
             "ascent": 7,
             "height": 7,
