@@ -1,0 +1,16 @@
+  {
+    "alcaris.horror_music": {
+      "sounds": [
+        {
+          "name": "bgm/horror_sound"
+        }
+      ]
+    },
+    "alcaris.horror_music2": {
+      "sounds": [
+        {
+          "name": "bgm/horror_sound2"
+        }
+      ]
+    }
+  }
