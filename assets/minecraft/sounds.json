@@ -1,15 +1,15 @@
   {
-    "alcaris.horror_music": {
+    "custom.horror_music": {
       "sounds": [
         {
           "name": "bgm/horror_sound"
         }
       ]
     },
-    "alcaris.horror_music2": {
+    "custom.eludis_horror": {
       "sounds": [
         {
-          "name": "bgm/horror_sound2"
+          "name": "bgm/eludishorrorbgm"
         }
       ]
     }
