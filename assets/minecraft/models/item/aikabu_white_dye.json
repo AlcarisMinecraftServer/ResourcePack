@@ -1,0 +1,321 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/white_dye"
+    },
+    "overrides": [
+        {
+            "predicate": {
+                "custom_model_data": 1
+            },
+            "model": "common:item/trump/hearts1"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 2
+            },
+            "model": "common:item/trump/hearts2"
+        }
+        ,
+        {
+            "predicate": {
+                "custom_model_data": 3
+            },
+            "model": "common:item/trump/hearts3"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 4
+            },
+            "model": "common:item/trump/hearts4"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 5
+            },
+            "model": "common:item/trump/hearts5"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6
+            },
+            "model": "common:item/trump/hearts6"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 7
+            },
+            "model": "common:item/trump/hearts7"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 8
+            },
+            "model": "common:item/trump/hearts8"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 9
+            },
+            "model": "common:item/trump/hearts9"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 10
+            },
+            "model": "common:item/trump/hearts10"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 11
+            },
+            "model": "common:item/trump/hearts11"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 12
+            },
+            "model": "common:item/trump/hearts12"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 13
+            },
+            "model": "common:item/trump/hearts13"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 14
+            },
+            "model": "common:item/trump/diamonds1"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 15
+            },
+            "model": "common:item/trump/diamonds2"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 16
+            },
+            "model": "common:item/trump/diamonds3"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 17
+            },
+            "model": "common:item/trump/diamonds4"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 18
+            },
+            "model": "common:item/trump/diamonds5"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 19
+            },
+            "model": "common:item/trump/diamonds6"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 20
+            },
+            "model": "common:item/trump/diamonds7"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 21
+            },
+            "model": "common:item/trump/diamonds8"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 22
+            },
+            "model": "common:item/trump/diamonds9"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 23
+            },
+            "model": "common:item/trump/diamonds10"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 24
+            },
+            "model": "common:item/trump/diamonds11"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 25
+            },
+            "model": "common:item/trump/diamonds12"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 26
+            },
+            "model": "common:item/trump/diamonds13"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 27
+            },
+            "model": "common:item/trump/clubs1"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 28
+            },
+            "model": "common:item/trump/clubs2"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 29
+            },
+            "model": "common:item/trump/clubs3"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 30
+            },
+            "model": "common:item/trump/clubs4"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 31
+            },
+            "model": "common:item/trump/clubs5"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 32
+            },
+            "model": "common:item/trump/clubs6"
+        },
+        {
+            "predicate": {
+                "custom_model_data":33
+            },
+            "model": "common:item/trump/clubs7"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 34
+            },
+            "model": "common:item/trump/clubs8"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 35
+            },
+            "model": "common:item/trump/clubs9"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 36
+            },
+            "model": "common:item/trump/clubs10"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 37
+            },
+            "model": "common:item/trump/clubs11"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 38
+            },
+            "model": "common:item/trump/clubs12"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 39
+            },
+            "model": "common:item/trump/clubs13"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 40
+            },
+            "model": "common:item/trump/spades1"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 41
+            },
+            "model": "common:item/trump/spades2"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 42
+            },
+            "model": "common:item/trump/spades3"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 43
+            },
+            "model": "common:item/trump/spades4"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 44
+            },
+            "model": "common:item/trump/spades5"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 45
+            },
+            "model": "common:item/trump/spades6"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 46
+            },
+            "model": "common:item/trump/spades7"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 47
+            },
+            "model": "common:item/trump/spades8"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 48
+            },
+            "model": "common:item/trump/spades9"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 49
+            },
+            "model": "common:item/trump/spades10"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 50
+            },
+            "model": "common:item/trump/spades11"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 51
+            },
+            "model": "common:item/trump/spades12"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 52
+            },
+            "model": "common:item/trump/spades13"
+        }
+    ]
+}
