@@ -11,35 +11,35 @@
         "when": "white_gold_coin",
         "model": {
           "type": "model",
-          "model": "common:item/white_gold_coin"
+          "model": "common:item/coin/white_gold_coin"
         }
       },
             {
         "when": "big_gold_coin",
         "model": {
           "type": "model",
-          "model": "common:item/big_gold_coin"
+          "model": "common:item/coin/big_gold_coin"
         }
             },
             {
         "when": "gold_coin",
         "model": {
           "type": "model",
-          "model": "common:item/gold_coin"
+          "model": "common:item/coin/gold_coin"
         }
             },
             {
         "when": "silver_coin",
         "model": {
           "type": "model",
-          "model": "common:item/silver_coin"
+          "model": "common:item/coin/silver_coin"
         }
             },
             {
         "when": "copper_coin",
         "model": {
           "type": "model",
-          "model": "common:item/copper_coin"
+          "model": "common:item/coin/copper_coin"
         }
       }
     ]
