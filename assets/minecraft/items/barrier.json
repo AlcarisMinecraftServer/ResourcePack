@@ -1,0 +1,138 @@
+{
+    "model": {
+        "type": "minecraft:range_dispatch",
+        "property": "minecraft:custom_model_data",
+        "entries": [
+            {
+                "threshold": 10000,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "common:item/icon/gui/gui_dark_grey"
+                }
+            },
+            {
+                "threshold": 10001,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "common:item/icon/gui/button_back"
+                }
+            },
+            {
+                "threshold": 10002,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "common:item/icon/gui/button_close"
+                }
+            },
+            {
+                "threshold": 10003,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "common:item/icon/gui/button_info"
+                }
+            },
+            {
+                "threshold": 10004,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "common:item/icon/gui/button_statistics"
+                }
+            },
+            {
+                "threshold": 10005,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "common:item/icon/gui/button_check"
+                }
+            },
+            {
+                "threshold": 10006,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "common:item/icon/gui/button_remove"
+                }
+            },
+            {
+                "threshold": 10007,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "common:item/icon/gui/button_num_0"
+                }
+            },
+            {
+                "threshold": 10008,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "common:item/icon/gui/button_num_1"
+                }
+            },
+            {
+                "threshold": 10009,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "common:item/icon/gui/button_num_2"
+                }
+            },
+            {
+                "threshold": 10010,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "common:item/icon/gui/button_num_3"
+                }
+            },
+            {
+                "threshold": 10011,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "common:item/icon/gui/button_num_4"
+                }
+            },
+            {
+                "threshold": 10012,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "common:item/icon/gui/button_num_5"
+                }
+            },
+            {
+                "threshold": 10013,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "common:item/icon/gui/button_num_6"
+                }
+            },
+            {
+                "threshold": 10014,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "common:item/icon/gui/button_num_7"
+                }
+            },
+            {
+                "threshold": 10015,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "common:item/icon/gui/button_num_8"
+                }
+            },
+            {
+                "threshold": 10016,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "common:item/icon/gui/button_num_9"
+                }
+            },
+            {
+                "threshold": 10017,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "common:item/icon/gui/button_dot"
+                }
+            }
+        ],
+        "fallback": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/barrier"
+        }
+    }
+}

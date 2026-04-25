@@ -2,19 +2,5 @@
     "parent": "minecraft:item/generated",
     "textures": {
         "layer0": "minecraft:item/barrier"
-    },
-    "overrides": [
-        {
-            "predicate": {
-                "custom_model_data": 10000
-            },
-            "model": "common:item/icon/gui/button_arrow_left"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 10001
-            },
-            "model": "common:item/icon/gui/button_arrow_right"
-        }
-    ]
+    }
 }

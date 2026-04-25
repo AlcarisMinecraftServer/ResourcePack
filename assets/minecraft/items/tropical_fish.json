@@ -1,0 +1,11 @@
+{
+    "model": {
+        "type": "minecraft:range_dispatch",
+        "property": "minecraft:custom_model_data",
+        "entries": [],
+        "fallback": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/tropical_fish"
+        }
+    }
+}
